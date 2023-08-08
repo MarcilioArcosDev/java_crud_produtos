@@ -1,0 +1,34 @@
+# Arquivos de compilação
+target/
+
+# Arquivos de configuração do IDE (Eclipse, IntelliJ, NetBeans, etc.)
+.idea/
+*.iml
+
+# Arquivos de saída
+*.class
+
+# Arquivos de log
+*.log
+
+# Dependências (se você estiver usando Maven)
+/.m2/
+
+# Arquivos de backup criados por alguns editores
+*~
+
+# Arquivos de configuração específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados automaticamente
+generated/
+
+# Diretório de saída do Eclipse
+bin/
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de propriedades de sistema
+*.properties
